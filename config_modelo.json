@@ -1,0 +1,14 @@
+{
+  "modelo": "Random Forest",
+  "target": "crecimiento_pib",
+  "features": [
+    "actividad_comercial",
+    "depositos",
+    "recaudacion_iva",
+    "construccion"
+  ],
+  "run_id": "RUN-004",
+  "periodicidad": "trimestral",
+  "datos": "simulados",
+  "version_config": 1
+}

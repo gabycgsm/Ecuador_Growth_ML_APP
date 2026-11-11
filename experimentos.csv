@@ -1,0 +1,9 @@
+run_id,fecha_utc,modelo,n_estimators,max_depth,min_samples_leaf,max_features,random_state,n_splits,test_size,periodo_entrenamiento_fin,n_variables,variables,mae_cv,rmse_cv,std_rmse_cv,ranking,es_mejor
+RUN-004,2026-11-11T00:12:32+00:00,Random Forest,100,7,4,1.0,2026,4,4,2024Q4,4,"actividad_comercial, depositos, recaudacion_iva, construccion",1.1794463380491036,1.3061204313323742,0.216185667721703,1,True
+RUN-001,2026-11-11T00:12:32+00:00,Random Forest,100,4,2,1.0,2026,4,4,2024Q4,4,"actividad_comercial, depositos, recaudacion_iva, construccion",1.2049754152932335,1.3061678071226617,0.2526165724476124,2,False
+RUN-002,2026-11-11T00:12:32+00:00,Random Forest,100,4,4,1.0,2026,4,4,2024Q4,4,"actividad_comercial, depositos, recaudacion_iva, construccion",1.1773470352857403,1.3062822119595288,0.230851123256284,3,False
+RUN-003,2026-11-11T00:12:32+00:00,Random Forest,100,7,2,1.0,2026,4,4,2024Q4,4,"actividad_comercial, depositos, recaudacion_iva, construccion",1.2045287246440244,1.3093479632374885,0.2675744889989553,4,False
+RUN-006,2026-11-11T00:12:32+00:00,Random Forest,200,4,4,1.0,2026,4,4,2024Q4,4,"actividad_comercial, depositos, recaudacion_iva, construccion",1.1758075119419178,1.318934241181993,0.21421034570607134,5,False
+RUN-008,2026-11-11T00:12:32+00:00,Random Forest,200,7,4,1.0,2026,4,4,2024Q4,4,"actividad_comercial, depositos, recaudacion_iva, construccion",1.1798125034132765,1.3200508152524748,0.20729005548073381,6,False
+RUN-005,2026-11-11T00:12:32+00:00,Random Forest,200,4,2,1.0,2026,4,4,2024Q4,4,"actividad_comercial, depositos, recaudacion_iva, construccion",1.207071899607119,1.3208497841051263,0.25443804324703156,7,False
+RUN-007,2026-11-11T00:12:32+00:00,Random Forest,200,7,2,1.0,2026,4,4,2024Q4,4,"actividad_comercial, depositos, recaudacion_iva, construccion",1.213817275570195,1.326265355769631,0.2609361968778814,8,False
